@@ -80,62 +80,62 @@ msgstr "Travailler sur un patch pour régler l'issue."
 
 #: Template/Changelogs/index.ctp:53
 msgid "Write a post describing the vulnerability, possible exploits and provide instructions on how to apply the patch / upgrade."
-msgstr ""
+msgstr "Écrivez un message décrivant la vulnérabilité, le possible exploit et donnez les instructions sur la façon d'appliquer le patch / la mise à jour."
 
 #: Template/Changelogs/index.ctp:54
 msgid "Apply the patch to all maintained and affected versions of CakePHP"
-msgstr ""
+msgstr "Appliquez le patch à toutes les versions maintenues et affectées de CakePHP"
 
 #: Template/Changelogs/index.ctp:55
 msgid "Create new packaged releases for each affected version."
-msgstr ""
+msgstr "Créez des nouvelles versions pour chaque version affectée."
 
 #: Template/Changelogs/index.ctp:56
 msgid "Publish the post on the CakePHP blog/Bakery"
-msgstr ""
+msgstr "Publiez le message sur le blog/Bakery de CakePHP"
 
 #: Template/Changelogs/index.ctp:59
 msgid "Continuous Integration"
-msgstr ""
+msgstr "Intégration Continue"
 
 #: Template/Changelogs/index.ctp:61
 msgid "CakePHP is {0} check the status of the {1} on Travis CI."
-msgstr ""
+msgstr "CakePHP est {0}, vérifiez le statut de {1} sur Travis CI."
 
 #: Template/Changelogs/index.ctp:63
 #: Template/Element/get-involved/get-involved.ctp:159
 msgid "continuously integrated"
-msgstr ""
+msgstr "intégré en continue"
 
 #: Template/Changelogs/index.ctp:64
 #: Template/Element/get-involved/get-involved.ctp:160
 msgid "various builds"
-msgstr ""
+msgstr "divers builds"
 
 #: Template/Changelogs/index.ctp:68
 #: Template/Element/get-involved/get-help.ctp:45
 msgid "Issues"
-msgstr ""
+msgstr "Issues"
 
 #: Template/Changelogs/index.ctp:70
 msgid "Found a bug? Suggest an improvement? Issue tracking for CakePHP can be found at {0}."
-msgstr ""
+msgstr "Vous avez trouvé un bug ? Suggérez une amélioration ? Le suivi des erreurs pour CakePHP se trouve sur {0}."
 
 #: Template/Changelogs/index.ctp:76
 msgid "Contributing"
-msgstr ""
+msgstr "Contribuer"
 
 #: Template/Changelogs/index.ctp:79
 msgid "Contributing to CakePHP is easy."
-msgstr ""
+msgstr "Contribuer à CakePHP est facile."
 
 #: Template/Changelogs/index.ctp:80
 msgid "Checkout the {0} for how you can get started contributing to CakePHP."
-msgstr ""
+msgstr "Regardez le {0} pour commencer la contribution à CakePHP."
 
 #: Template/Changelogs/index.ctp:82
 msgid "guide on contributing"
-msgstr ""
+msgstr "guide de contribution"
 
 #: Template/Changelogs/view.ctp:39
 msgid "Version {0}"
@@ -143,15 +143,15 @@ msgstr ""
 
 #: Template/Changelogs/view.ctp:41
 msgid "Back"
-msgstr ""
+msgstr "Retour"
 
 #: Template/Common/secondary.ctp:9
 msgid "CakePHP makes building web applications"
-msgstr ""
+msgstr "CakePHP rend la construction d'applications web"
 
 #: Template/Common/secondary.ctp:11
 msgid "simpler, faster and require less code."
-msgstr ""
+msgstr "plus simple, plus rapide et avec moins de code."
 
 #: Template/Element/assets.ctp:19
 msgid "Logos"
@@ -159,7 +159,7 @@ msgstr ""
 
 #: Template/Element/assets.ctp:38
 msgid "Wallpapers"
-msgstr ""
+msgstr "Fonds d'écran"
 
 #: Template/Element/assets.ctp:39
 msgid "These wallpapers are designed as 1024 pixels wide, and square. This makes them appropriate for devices that allow orientation switching while maintaining the design of the wallpaper within the bounds of your device. They're also great for desktop backgrounds, or any other place you want a giant sexy CakePHP wallpaper."
@@ -175,63 +175,63 @@ msgstr ""
 
 #: Template/Element/Layout/default/footer.ctp:33
 msgid "Designs by Ibaldo"
-msgstr ""
+msgstr "Designs par Ibaldo"
 
 #: Template/Element/Layout/default/navbar.ctp:7;25
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:4
 msgid "My CakePHP"
-msgstr ""
+msgstr "Mon CakePHP"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:7
 #: Template/Plugin/CakeDC/Users/Users/login.ctp:32
 msgid "Username"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:11
 #: Template/Plugin/CakeDC/Users/Users/login.ctp:33
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:17
 #: Template/Plugin/CakeDC/Users/Users/login.ctp:29
 msgid "Login"
-msgstr ""
+msgstr "Se connecter"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:21
 msgid "Remember me"
-msgstr ""
+msgstr "Se souvenir de moi"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:23
 #: Template/Plugin/CakeDC/Users/Users/login.ctp:51
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Oubli de mot de passe ?"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:24
 msgid "New user?"
-msgstr ""
+msgstr "Nouvel utilisateur ?"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:24
 msgid "Register!"
-msgstr ""
+msgstr "S'enregistrer !"
 
 #: Template/Element/Layout/default/footer/social_interactions.ctp:15
 msgid "Follow"
-msgstr ""
+msgstr "Suivez"
 
 #: Template/Element/Layout/default/footer/menu/column_four.ctp:12
 #: Template/Element/Layout/default/menu/menu.ctp:58
 msgid "Help & Support"
-msgstr ""
+msgstr "Aide & Support"
 
 #: Template/Element/Layout/default/footer/menu/column_one.ctp:6
 #: Template/Element/Layout/default/menu/menu.ctp:18
 #: Template/Element/Layout/default/menu/mobile_menu.ctp:33
 #: Template/Pages/business_solutions.ctp:12
 msgid "Business Solutions"
-msgstr ""
+msgstr "Solutions Business"
 
 #: Template/Element/Layout/default/footer/menu/column_one.ctp:12
 #: Template/Element/Layout/default/menu/menu.ctp:26
@@ -255,11 +255,11 @@ msgstr ""
 
 #: Template/Element/Layout/default/menu/menu.ctp:73
 msgid "Logout"
-msgstr ""
+msgstr "Se déconnecter"
 
 #: Template/Element/Layout/default/menu/mobile_menu.ctp:60
 msgid "Help &\n                                                Support"
-msgstr ""
+msgstr "Aide &\n                                                Support"
 
 #: Template/Element/Layout/default/menu/top_bar.ctp:6;16
 msgid "CakePHP {0}{1}"
@@ -278,7 +278,7 @@ msgstr ""
 #: Template/Element/business-solutions/code-review.ctp:3
 #: Template/Element/business-solutions/sidebar.ctp:10
 msgid "Code Review"
-msgstr ""
+msgstr "Revue de Code"
 
 #: Template/Element/business-solutions/code-review.ctp:4
 msgid "The following are some of the main reasons to review the existing source code on a project:"
@@ -286,7 +286,7 @@ msgstr ""
 
 #: Template/Element/business-solutions/code-review.ctp:6
 msgid "You want to ensure the code quality from an external contractor"
-msgstr ""
+msgstr "Vous voulez vous assurer de la qualité du code par un contractant externe"
 
 #: Template/Element/business-solutions/code-review.ctp:7
 msgid "You feel your mission critical application could have scalability issues"
@@ -390,7 +390,7 @@ msgstr ""
 
 #: Template/Element/business-solutions/development.ctp:11
 msgid "Why Choose CakeDC"
-msgstr ""
+msgstr "Pourquoi choisir CakeDC"
 
 #: Template/Element/business-solutions/development.ctp:12
 msgid "On-Demand Management"
@@ -2354,7 +2354,7 @@ msgstr ""
 
 #: Template/Pages/privacy.ctp:50
 msgid "Advertising:"
-msgstr ""
+msgstr "Publicité"
 
 #: Template/Pages/privacy.ctp:52
 msgid "We use third-party advertising companies to serve ads when you visit our website."
@@ -2370,7 +2370,7 @@ msgstr ""
 
 #: Template/Pages/privacy.ctp:59
 msgid "click here"
-msgstr ""
+msgstr "cliquez ici"
 
 #: Template/Pages/rebranding.ctp:2
 msgid "CakePHP - Build fast, grow solid | The Brand"
@@ -2410,11 +2410,11 @@ msgstr ""
 
 #: Template/Pages/team.ctp:18
 msgid "Meet the team behind CakePHP"
-msgstr ""
+msgstr "Rencontre l'équipe derrière CakePHP"
 
 #: Template/Pages/team.ctp:28
 msgid "read more"
-msgstr ""
+msgstr "en lire plus"
 
 #: Template/Pages/trademark.ctp:5
 msgid "CakePHP - Build fast, grow solid | Logos and Trademarks"
@@ -2438,56 +2438,56 @@ msgstr ""
 
 #: Template/Pages/videos.ctp:25
 msgid "CakePHP Videos"
-msgstr ""
+msgstr "Vidéos de CakePHP"
 
 #: Template/Pages/videos.ctp:26
 msgid "Checkout our videos from youtube channel."
-msgstr ""
+msgstr "Regardez nos vidéos à partir de la chaîne youtube."
 
 #: Template/Pages/videos.ctp:67
 msgid "Load More"
-msgstr ""
+msgstr "En charger plus"
 
 #: Template/Plugin/CakeDC/Users/Users/change_password.ctp:29
 msgid "Enter a new password"
-msgstr ""
+msgstr "Entrez un nouveau mot de passe"
 
 #: Template/Plugin/CakeDC/Users/Users/change_password.ctp:33
 msgid "New password"
-msgstr ""
+msgstr "Nouveau mot de passe"
 
 #: Template/Plugin/CakeDC/Users/Users/change_password.ctp:34
 msgid "Confirm new password"
-msgstr ""
+msgstr "Confirmez le nouveau mot de passe"
 
 #: Template/Plugin/CakeDC/Users/Users/request_reset_password.ctp:29
 msgid "Request a new password"
-msgstr ""
+msgstr "Demander un nouveau mot de passe"
 
 #: Template/Plugin/CakeDC/Users/Users/request_reset_password.ctp:32
 msgid "Username or email"
-msgstr ""
+msgstr "Nom d'utilisateur ou email"
 
 #: Template/Plugin/Showcase/Admin/Projects/edit.ctp:12
 #: Template/Plugin/Showcase/Admin/Projects/index.ctp:49
 msgid "Are you sure you want to delete # {0}?"
-msgstr ""
+msgstr "Êtes-vous sur de vouloir supprimer  # {0} ?"
 
 #: Template/Plugin/Showcase/Admin/Projects/index.ctp:60
 msgid "previous"
-msgstr ""
+msgstr "précédent"
 
 #: Template/Plugin/Showcase/Admin/Projects/index.ctp:62
 msgid "next"
-msgstr ""
+msgstr "suivant"
 
 #: Template/Plugin/Showcase/Admin/Projects/view.ctp:36
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 #: Template/Plugin/Showcase/Admin/Projects/view.ctp:40
 msgid "Website"
-msgstr ""
+msgstr "Site web"
 
 #: Template/Plugin/Showcase/Admin/Projects/view.ctp:44
 msgid "Is Highlighted"
@@ -2499,23 +2499,23 @@ msgstr ""
 
 #: Template/Plugin/Showcase/Admin/Projects/view.ctp:52
 msgid "Created"
-msgstr ""
+msgstr "Créé"
 
 #: Template/Plugin/Showcase/Admin/Projects/view.ctp:56
 msgid "Modified"
-msgstr ""
+msgstr "Modifié"
 
 #: Template/Plugin/Showcase/Element/Projects/form.ctp:68
 msgid "Submit"
-msgstr ""
+msgstr "Soumettre"
 
 #: Template/Plugin/Showcase/Element/Showcase/cases.ctp:5
 msgid "CakePHP More Stories"
-msgstr ""
+msgstr "Plus d'Histoires avec CakePHP"
 
 #: Template/Plugin/Showcase/Element/Showcase/cases.ctp:33
 msgid "View more projects"
-msgstr ""
+msgstr "Voir plus de projets"
 
 #: Template/Plugin/Showcase/Element/Showcase/title.ctp:2
 msgid "CakePHP - Build fast, grow solid | Success Stories"
@@ -2531,8 +2531,11 @@ msgstr ""
 
 #: Template/Plugin/Showcase/Element/Showcase/title.ctp:14
 msgid "Here’s how CakePHP has helped other companies to succeed."
-msgstr ""
+msgstr "Voici comment CakePHP a aidé d'autres entreprises à réussir."
 
 #: View/Helper/AppHelper.php:117
 msgid "{0} to {1}"
+msgstr ""
+
+msgid "Team"
 msgstr ""

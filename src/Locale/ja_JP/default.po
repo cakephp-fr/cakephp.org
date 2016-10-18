@@ -2539,4 +2539,3 @@ msgstr ""
 
 msgid "Team"
 msgstr "チーム"
-
